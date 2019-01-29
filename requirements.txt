@@ -1,0 +1,9 @@
+pandas
+numpy
+sklearn
+pandas-profiling
+matplotlib
+jupyterlab
+featuretools
+xgboost
+lightgbm
